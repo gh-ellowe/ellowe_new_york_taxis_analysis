@@ -1,2 +1,2 @@
-# ellowe_new_york_taxis_analysis
+# New York Taxis Analysis
 data science course project 1
